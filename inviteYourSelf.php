@@ -1,6 +1,6 @@
 <?php
 
-// get email and unique invitation code from one plus one
+// get email and unique invitation code from command line
 $options = getopt("e:c:");
 
 $email = $options["e"];
