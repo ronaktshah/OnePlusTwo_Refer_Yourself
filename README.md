@@ -27,4 +27,4 @@ https://oneplus.net/invites?kid=<--code-->
 
 # How to run
 
-php inviteYourSelf.php -e abc -c <CODE>
+php inviteYourSelf.php -e abc -c <-->
